@@ -1,8 +1,8 @@
-# Escritório de Engenharia
+# Desafio Penalidades
 
 ## Introdução:
 
-    Olá, meu nome é João Arthur Silva e este repositório é direcionado para tudo que foi feito por mim de programação relativamente ao Escritório de Engenharia
+    Olá, meu nome é João Arthur Silva e este repositório é direcionado para o desafio do jogo de penalidades do Escritório de Engenharia
   
 
 ## Tecnologias Utilizadas:
